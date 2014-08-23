@@ -24,7 +24,9 @@ Using your text editor, add a **new file** in the `names/` folder of the reposit
 
 When you have made this addition you are ready to make a **commit**. A commit is a snapshot of your project at certain point in time. *It is like saving a version of all of the files in your project.*
 
-Switch back to GitHub for Mac and click **irst-pull-request** in the Repositories list. On the right, you can see a **diff** showing the changes.
+Switch back to GitHub for Mac and click **first-pull-request** in the Repositories list. On the right, you can see a **diff** showing the changes.
+
+![diff screenshot](img/diff.png)
 
 To commit these changes, type a commit summary and click **Commit**.
 
