@@ -1,6 +1,6 @@
 # first-pull-request
 
-> This is a repo for students to practice making a pull request
+> A repo for students to practice making a pull request
 
 ## Step 1: Fork & Clone the Repository
 
@@ -14,7 +14,7 @@ This will make a copy of this repository under your account:
 
 From your copy, click the **Clone In Desktop** button located on the right side of the page.
 
-![Clone in Desktop Button](clone_in_mac.jpg)
+![Clone in Desktop Button](img/clone_in_mac.jpg)
 
 Select a folder location to save this project and click "Clone".
 
@@ -44,6 +44,6 @@ Click the green **Compare and Review** button.
 
 On the Compare page, click **Create pull request**.
 
-![Create pull request button](pull-request-click-to-create.png)
+![Create pull request button](img/pull-request-click-to-create.png)
 
 Type a title and description of your pull request and click the **Create pull request.** button.
